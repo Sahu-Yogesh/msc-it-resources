@@ -55,10 +55,10 @@ New to this repository?
 
 ## 📘 Semester 1
 
-- [📚 Subject 1](semester-1/subject-1/)
-- [📚 Subject 2](semester-1/subject-2/)
-- [📚 Subject 3](semester-1/subject-3/)
-- [📚 Subject 4](semester-1/subject-4/)
+- [📚 Web Mining – I ](semester-1/subject-1/)
+- [📚 Introduction to Data Science ](semester-1/subject-2/)
+- [📚 Cloud Computing ](semester-1/subject-3/)
+- [📚 Advanced Security in Computing](semester-1/subject-4/)
 
 ## 📗 Semester 2
 
