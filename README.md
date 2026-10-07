@@ -69,7 +69,7 @@ New to this repository?
 
 ## 📙 Semester 3
 
-- [📚 Subject 1](semester-3/subject-1/)
+- [📚 ADBMS- Advanced Database Management System ]((https://drive.google.com/drive/folders/1XG-XWDQRvHb9XvTys7pdxYg_uKyfQgNf?usp=sharing))
 - [📚 Subject 2](semester-3/subject-2/)
 - [📚 Subject 3](semester-3/subject-3/)
 - [📚 Subject 4](semester-3/subject-4/)
