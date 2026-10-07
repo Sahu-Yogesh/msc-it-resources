@@ -70,9 +70,8 @@ New to this repository?
 ## 📙 Semester 3
 
 - [📚 ADBMS- Advanced Database Management System ](https://drive.google.com/drive/folders/1XG-XWDQRvHb9XvTys7pdxYg_uKyfQgNf?usp=sharing)
-- [📚 Subject 2](semester-3/subject-2/)
-- [📚 Subject 3](semester-3/subject-3/)
-- [📚 Subject 4](semester-3/subject-4/)
+- [📚 ITFS - IT IN FORENSIC SCIENCE ](https://drive.google.com/drive/folders/1KvRZxobxI9g_yzT80qH7FfqGS4AQsCo6?usp=sharing)
+- [📚 ML - Machine Learning ](https://drive.google.com/drive/folders/1IzV0YAUa9nQ8HKMJYpJxQBnllP_QUZJD?usp=sharing)
 
 ## 📕 Semester 4
 
@@ -81,7 +80,6 @@ New to this repository?
 - [📚 Subject 3](semester-4/subject-3/)
 - [📚 Subject 4](semester-4/subject-4/)
 
-> 💡 **Note:** Replace the subject names and links above with the actual subjects from your MSc IT syllabus.
 
 ---
 
